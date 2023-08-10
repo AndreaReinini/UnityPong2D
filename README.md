@@ -23,4 +23,9 @@ Join us in the world of **UnityPong2D**:
 
 Experience the charm of 2D Pong with a modern twist in **UnityPong2D**. Dive into the game and join us today!
 
-*Note: Personalize the description with specific details about your project and repository.*
+*Note: Personalize the description with specific details about your project and repository.
+
+*![Screenshot_2](https://github.com/AndreaReinini/UnityPong2D/assets/126660740/08050db0-b255-47e6-a47d-254701e4c5af)
+
+
+![Screenshot_3](https://github.com/AndreaReinini/UnityPong2D/assets/126660740/ceb76f98-f13a-4949-b904-65a5dd3d8e68)
